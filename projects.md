@@ -2,5 +2,5 @@
 layout: post
 title: "Projects & Code"
 ---
-# Fed Challenge
-In 2024, I led [Northeastern's team](https://fedfiscalchallenge.sites.northeastern.edu/) for the Fed Challenge, a nationwide competition sponsored where undergraduates develop monetary policy proposals that mimic an FOMC meeting. The team's final presentation is [linked here](./fed_challenge_2024.pdf). The Fed Challenge was a very fun way to get experience following macroeconomic data, and I highly recommend other undergraduates compete!
+# Fed & Fiscal Challenge
+I've led [Northeastern's teams](https://fedfiscalchallenge.sites.northeastern.edu/) for the Fed & Fiscal Challenges since 2024. Both are nationwide economic policy competitions where undergraduates present to economists. [Linked here](https://github.com/BobbySquires/NEUFed2025) is the GitHub respoitory with code I wrote for our graphs in the 2025 Fed Challenge.
