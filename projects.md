@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: ""
 ---
 # Fed & Fiscal Challenge Teams
 I led Northeastern's teams for the Fed & Fiscal Challenges in 2024 and 2025. We placed 3rd nationally in the 2024 Fiscal Challenge and 3rd in the Boston region for the 2025 Fed Challenge. Recordings of our presentations are available on the [team's site](https://fedfiscalchallenge.sites.northeastern.edu/). Linked here is a [GitHub repository](https://github.com/BobbySquires/NEUFed2025) with graphs I made for the 2025 Fed Challenge.
